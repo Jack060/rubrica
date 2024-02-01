@@ -73,8 +73,10 @@ all'interno della classe di saranno 3 costruttori:
 
 # rubricaWPF (seconda versione)
 
-nella seconda versione abbiamo aggiunto un'altra griglia che contiene i contatti; nella prima (tabella a sinistra) <br>
-c'è un'elenco di persone, nella seconda (tabella a destra) invece l'elenco dei contatti; <br>
-E ogni volta che premiamo sulla linea di una persona nella prima tavella, nella seconda verrano visualizzati i contatti <br>
-che si hanno con lo stesso "idPersona". in fondo alla finestra è stata aggiunta una scritta che mostra quante persone <br>
-sono salvate, però se premiamo su una persona viene mostrato il nome della persona su cui abbiamo premuto.
+![image](https://github.com/Jack060/rubricaWPF/assets/127589840/b6ce9a6c-82dc-47bc-80ae-9f34dfd59de4)
+
+Nella seconda versione abbiamo aggiunto un'altra griglia che contiene i contatti delle persone salvate nella rubrica:  <br>
+nella prima tabella (a sinistra) c'è l'elenco delle persone, mentre, nella seconda (a destra) abbiamo l'elenco dei contatti; <br>
+ogni volta che premiamo su una persona nella prima tavella, nella seconda verrano visualizzati i contatti <br>
+con lo stesso "idPersona". in fondo alla finestra è stata aggiunta una scritta che mostra quante persone <br>
+sono salvate, però ogni volta che premiamo su una persona viene mostrata la scritta: "Questi sono i contatti di: (nome della persona selezionata)".

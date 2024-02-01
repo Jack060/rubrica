@@ -73,4 +73,7 @@ all'interno della classe di saranno 3 costruttori:
 
 # rubricaWPF (seconda versione)
 
-
+nella seconda versione abbiamo aggiunto un'altra griglia che contiene i contatti; nella prima (tabella a sinistra)
+c'è un'elenco di persone, nella seconda (tabella a destra) invece l'elenco dei contatti;
+E ogni volta che premiamo sulla linea di una persona nella prima tavella, nella seconda verrano visualizzati i contatti
+che si hanno con lo stesso "idPersona"

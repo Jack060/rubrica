@@ -70,3 +70,7 @@ all'interno della classe di saranno 3 costruttori:
     Cognome = cognome;
   }
 ```
+
+# rubricaWPF (seconda versione)
+
+
